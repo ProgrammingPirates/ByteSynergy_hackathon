@@ -1,0 +1,44 @@
+.max-w-760 {
+    max-width: 760px;
+    margin: 0 auto;
+}
+
+.max-w-980 {
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+.w-100 {
+    width: 100%
+}
+
+.card {
+    border: 1px solid transparent;
+}
+
+.card-invalid {
+    border: 1px solid #ef9a9a;
+}
+
+.border-top {
+    border-top: 1px solid #00000082;
+}
+
+code {
+    color: #000;
+    padding: 2px 10px;
+}
+
+.bg-wisteria {
+    background-color: #ce93d8;
+}
+
+.p-fieldset {
+    background: #1e1e1ef2 !important;
+}
+
+@media (max-width: 960px) {
+    .logo {
+        display: none !important;
+    }
+}
