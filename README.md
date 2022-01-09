@@ -1,29 +1,14 @@
+
+##DOTSLASH-5.0_Hackathon_2021
+
 ![2021-12-29_12-30-44](https://user-images.githubusercontent.com/36998159/147647626-2cca7dfc-4627-437e-b41f-4aee9a7cd3be.png)
 
 
-## Available Scripts
+##The problem DotSlash 5.0 Web Tool Cmd(linux) solves
+Enlisted below are the most popular tools for Web Development that are used worldwide.
 
-In the project directory, you can run:
+#Challenges I ran into
+easy Chmod calculator, Crontab Generator,Using Timestamps Generator all in one tool only one platform.
 
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests]() for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment]() for more information.
+#Technologies I used
+JavaScript TypeScript HTML/CSS Other
