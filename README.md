@@ -1,5 +1,5 @@
 
-##DOTSLASH-5.0_Hackathon_2021
+##Thehacktrical_Hackathon_2022
 
 ![2021-12-29_12-30-44](https://user-images.githubusercontent.com/36998159/147647626-2cca7dfc-4627-437e-b41f-4aee9a7cd3be.png)
 
